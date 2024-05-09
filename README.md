@@ -11,7 +11,3 @@ This repository contains an implementation of a feedforward neural network using
 - Supports gradient descent optimization
 - Utilizes backpropagation for training
 
-## Usage
-
-1. Clone the repository:
-
